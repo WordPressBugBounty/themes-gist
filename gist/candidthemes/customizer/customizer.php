@@ -9,7 +9,7 @@ if ( !function_exists('gist_default_theme_options') ) :
 
 		$default_theme_options = array(
 			'gist_primary_color' => '#4ea371',
-			'gist-footer-copyright'=> esc_html__('All Rights Reserved 2023','gist'),
+			'gist-footer-copyright'=> esc_html__('All Rights Reserved 2025','gist'),
 			'gist-footer-gototop' => 1,
 			'gist-sticky-sidebar'=> 1,
 			'gist-sidebar-options'=>'right-sidebar',

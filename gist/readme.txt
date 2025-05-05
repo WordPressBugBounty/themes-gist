@@ -4,9 +4,9 @@ Contributors: candidthemes
 Tags: two-columns, right-sidebar, custom-background, custom-colors, custom-menu, featured-images, theme-options, threaded-comments, translation-ready, blog, news
 Donate link: https://www.candidthemes.com/themes/gistpro-clean-minimal-premium-wordpress-blog-theme/
 Requires at least: 4.5
-Tested up to: 6.2
+Tested up to: 6.8
 Requires PHP: 5.2
-Stable tag: 1.1.2
+Stable tag: 1.1.8
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -56,6 +56,10 @@ Before updating theme please check our demos to know the udpates or check the ch
 1. Theme Screenshot: screenshot.jpg
 
 == Changelog ==
+= 1.1.8 - May 05 2025 =
+* Tested with 6.8
+* Changed copyright date
+
 = 1.1.7 - April 26 2022 =
 * Tested with 6.2
 * Changed copyright date
